@@ -1,0 +1,35 @@
+a{
+    color: pink;
+    text-decoration-line: overline;
+    cursor: crosshair;
+}
+
+article{
+    text-align: center;
+    border: 3px dashed;
+    padding: 5px;
+    font-size: 18px;
+    background: palegreen;
+    
+}
+
+h1{
+    text-align: center;
+    font-family: 'Gaegu', cursive;
+}
+
+img{
+    display: block;
+    width: 25%;
+    height: 50%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+span{
+    font-style: oblique;
+}
+
+body{
+    cursor: no-drop;
+}
